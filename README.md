@@ -1,6 +1,16 @@
 # Udacity-Data-Science-Blog-Project
 ## <p>Project: Write a Data Science Blog Post 
 ## Introduction 
+
+Methane is the second largest greenhouse gas contributer (25%) to global warming behind carbon dioxide.
+Oil and gas operations are a significant component of the total world methane emissions accounting for 29% 
+of all emissions. These are predominantly from leakage from equipment (faulty or under normal use) and flaring. 
+
+In this project I procured a public dataset taken from a NASA JPL aerial survey performed in 2019 to measure methane plumes,
+assigne it to a source and compute the emission rate. Approximately 3000 plumes were observed and entered in the dataset.
+
+I felt this project was an opportunity to explore some important questions relative to this data
+
 ## Code
 
 The code for this project is fully embodied in the **Permean Methane Rev 1.ipynb** Jupyter Notebook file
@@ -44,10 +54,38 @@ It is available from NASA, but it is difficult to find. For this work I accessed
 	Code is readable (uses good coding practices - PEP8)
 	Code is functional.
 	Write code that is well documented and uses functions and classes as necessary.
+
+I have run Pylint via nbqa with the following result: 
+
+	(SE4Sci) C:\JupyterNotebooks-SE4Sci>nbqa pylint permean_methane_rev_1_0.ipynb
+	************* Module permean_methane_rev_1_0
+	permean_methane_rev_1_0.ipynb:cell_2:5:0: E0401: Unable to import 'seaborn' (import-error)
+	
+	-----------------------------------
+	Your code has been rated at 9.71/10
+
+Note that the Seaborn module loads fine in Jupyter.
+The code is fully functional and heavily commented
  
 ### Rubric item: Data
 	There are 3-5 business questions asked and answered.
- 
+
+Business Questions:
+1. Does the 80/20 rule apply to methane emissions?
+2. Do methane emissions vary significantly by type of equipment?
+3. What fraction of methane emissions occur in the presence of flaring?
+
+These three questions were addressed in the code and the blog post. 
+In summary:
+> Answer to question 1: the largest 44% of emissions in this data account for 80% of the total emissions.
+
+> Answer to question 2: emissions do not vary significantly by type of equipment in this dataset.
+
+> Answer to question 3: 
+>> 1. the vast majority of observed plumes occur in the absence of any observed flares
+	(active or inactive).
+>> 2. the number of plumes present when active flaring is observed is non-trivial.
+>> 3. active flaring accounts for about 5% of the observed emissions in this dataset.
 ### Rubric item: Github Repository
 	Student must publish their code in a public Github repository.
  
