@@ -13,7 +13,7 @@ I felt this project was an opportunity to explore some important questions relat
 
 ## Code
 
-The code for this project is fully embodied in the **Permean Methane Rev 1.ipynb** Jupyter Notebook file
+The code for this project is fully embodied in the **permean_methane_rev_1.ipynb** Jupyter Notebook file
 in this Github repository.
 
 ## Datasets
@@ -88,13 +88,19 @@ In summary:
 >> 3. active flaring accounts for about 5% of the observed emissions in this dataset.
 ### Rubric item: Github Repository
 	Student must publish their code in a public Github repository.
- 
+ All project materials have been published in this Github repository including:
+> code
+
+> datasets
+
+> blog documents
+
 ### Rubric item: Blog Post
 	Communicate their findings with stakeholders.
 	There should be an intriguing title and image related to the project.
 	The body of the post has paragraphs that are broken up by appropriate white space and images.
 	Clearly state the business questions and the corresponding solutions
-
+This has been done to the best of my ability. Note this is my first blog post.
 ### Installing
 The jupyter notebook file can be operated with the standard Jupyter Notebook software.
 As in all projects, it is recommended to set up an environment with the required packages. These include:
