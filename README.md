@@ -3,7 +3,22 @@
 ## Introduction 
 ## Code
 
+The code for this project is fully embodied in the **Permean Methane Rev 1.ipynb** Jupyter Notebook file
+in this Github repository.
+
 ## Datasets
+
+The dataset used for this project is from the NASA/JPL 2019 Methane survey performed with the AVIRIS team.
+The Survey was done in West Texas in the permean basin and looked for methane plumes with infrared cameras.
+Analysis of the raw data was done by the JPL team to identify source emission location and where possible equipment
+types.
+This data is public and available from numerous sources. 
+It is available from NASA, but it is difficult to find. For this work I accessed it from the ACS
+(see reference 2) at the following web addresses (also see reference 3 & 4):
+	https://pubs.acs.org/doi/suppl/10.1021/acs.estlett.1c00173/suppl_file/ez1c00173_si_001.xlsx
+	https://pubs.acs.org/doi/suppl/10.1021/acs.estlett.1c00173/suppl_file/ez1c00173_si_002.xlsx
+ These are in Excel format which I converted to .csv format using Excel and saved in the Github.
+
  
 ## Acknowledgments and Sources of Code and Data:
 
@@ -12,7 +27,7 @@
 	ChatGPT
 	Udacity GPT
 	Google
-  References: 
+>### References: 
   1. Methane: A crucial opportunity in the climate fight https://www.edf.org/climate/methane-crucial-opportunity-climate-fight
   2. Cusworth, D.H., Duren, R.M., Thorpe, A.K., Olson-Duvall, W., Heckler, J.W., Chapman, J.W., Eastwood, M.L., Helmlinger, M., Green, R.O., Asner, G.P., Dennison, P.E., & Miller, C.E. (2021). Intermittency of Large Methane Emitters in the Permian Basin. Environmental Science and Technology Letters.
   3. https://pubs.acs.org/doi/suppl/10.1021/acs.estlett.1c00173/suppl_file/ez1c00173_si_001.xlsx
