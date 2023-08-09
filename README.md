@@ -25,29 +25,46 @@
 
 ## Rubric elements
 
-### Rubric item: Prerequisites
-
-### Rubric item: General
-
-### Rubric item: Dag configuration
-
-### Rubric item: Staging the data
-
-### Rubric Item: Loading dimensions and facts
-
-
-
-### Rubric Item: Data Quality Checks
-
+### Rubric item: Code Functionality and Readability
+	Code is readable (uses good coding practices - PEP8)
+	Code is functional.
+	Write code that is well documented and uses functions and classes as necessary.
  
-
+### Rubric item: Data
+	There are 3-5 business questions asked and answered.
+ 
+### Rubric item: Github Repository
+	Student must publish their code in a public Github repository.
+ 
+### Rubric item: Blog Post
+	Communicate their findings with stakeholders.
+	There should be an intriguing title and image related to the project.
+	The body of the post has paragraphs that are broken up by appropriate white space and images.
+	Clearly state the business questions and the corresponding solutions
 
 ### Installing
-## References
+The jupyter notebook file can be operated with the standard Jupyter Notebook software.
+As in all projects, it is recommended to set up an environment with the required packages. These include:
+	pandas
+	numpy
+	matplotlib
+	seaborn
+ 
+A single notebook was used for this project: 
+	Permean Methane Rev 1.ipynb
+ 
+This notebook requires that 2 data files be present in the same directory as the notebook.
+These files are:
+	Georeferenced plume list ez1c00173_si_001.csv
+	Georeferenced source list ez1c00173_si_002_clean_v1.csv
+ 
 ## License
-This project is licensed under the Apache 2.0  License - see the LICENSE.md file for details
-## Built With
+This project is licensed under the MIT License  License - see the LICENSE.md file for details
 
+## Built With
+	Anaconda
+	Eclipse IDE for Developers (used for checking code)
+	Jupyter Notebook
 ## Author
 **Theodore van Kessel** 
  
