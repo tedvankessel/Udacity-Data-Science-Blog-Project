@@ -111,10 +111,13 @@ This has been done.
 ### Installing
 The jupyter notebook file can be operated with the standard Jupyter Notebook software.
 As in all projects, it is recommended to set up an environment with the required packages. These include:
-	pandas
-	numpy
-	matplotlib
-	seaborn
+
+ 	pandas 2.0.1
+	numpy 1.24.3
+	matplotlib 3.7.1
+	seaborn 0.10.0
+ 
+ ### NOTE: a requirements.txt file can be found in this Github that contains all the packages used in this project
  
 A single notebook was used for this project: 
 	Permean Methane Rev 1.ipynb
