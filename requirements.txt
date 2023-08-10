@@ -1,0 +1,67 @@
+astroid==2.15.4
+asttokens==2.2.1
+autopep8==2.0.2
+backcall==0.2.0
+certifi==2022.12.7
+charset-normalizer==3.1.0
+click @ file:///D:/bld/click_1666798499870/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+configparser @ file:///home/conda/feedstock_root/build_artifacts/configparser_1660952164778/work
+contourpy==1.1.0
+cycler==0.11.0
+decorator==5.1.1
+dill==0.3.6
+executing==1.2.0
+Flask==2.2.3
+fonttools==4.40.0
+ibm-cloud-sdk-core==3.16.5
+ibm-watson==7.0.0
+idna==3.4
+importlib-metadata==6.6.0
+importlib-resources==5.12.0
+ipython==8.12.2
+isort==5.12.0
+itsdangerous==2.1.2
+jedi==0.19.0
+Jinja2==3.1.2
+kiwisolver==1.4.4
+lazy-object-proxy==1.9.0
+MarkupSafe==2.1.2
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+mccabe==0.7.0
+nbqa==1.7.0
+numpy @ file:///D:/bld/numpy_1682210406575/work
+packaging==23.1
+pandas @ file:///D:/bld/pandas_1682331614447/work
+parso==0.8.3
+pickleshare==0.7.5
+Pillow==9.5.0
+platformdirs==3.2.0
+prompt-toolkit==3.0.39
+psycopg2 @ file:///D:/bld/psycopg2-split_1672159422399/work
+pure-eval==0.2.2
+pycodestyle==2.11.0
+pycodestyle_magic==0.5
+Pygments==2.16.1
+PyJWT==2.6.0
+pylint==2.17.2
+pyparsing==3.1.0
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1677227146928/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1680088766131/work
+requests==2.28.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+stack-data==0.6.2
+tokenize-rt==5.2.0
+tomli==2.0.1
+tomlkit==0.11.7
+traitlets==5.9.0
+typing_extensions==4.5.0
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1680081134351/work
+urllib3==1.26.15
+wcwidth==0.2.6
+websocket-client==1.1.0
+Werkzeug==2.2.3
+wrapt==1.15.0
+zipp==3.15.0
