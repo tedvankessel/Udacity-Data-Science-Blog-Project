@@ -1,5 +1,9 @@
 # Udacity-Data-Science-Blog-Project
 ## <p>Project: Write a Data Science Blog Post 
+## Blog post locations:
+>#### Github Pages Blog Repo:  https://github.com/tedvankessel/se4sci-blog
+>#### Github Pages Blog Post: https://tedvankessel.github.io/se4sci-blog/2023/08/09/Methane_the_Other_Greenhouse_Gas.html
+
 ## Introduction 
 
 Methane is the second largest greenhouse gas contributer (25%) to global warming behind carbon dioxide.
@@ -100,7 +104,10 @@ In summary:
 	There should be an intriguing title and image related to the project.
 	The body of the post has paragraphs that are broken up by appropriate white space and images.
 	Clearly state the business questions and the corresponding solutions
-This has been done to the best of my ability. Note this is my first blog post.
+This has been done.
+>#### Github Pages Blog Repo:  https://github.com/tedvankessel/se4sci-blog
+>#### Github Pages Blog Post: https://tedvankessel.github.io/se4sci-blog/2023/08/09/Methane_the_Other_Greenhouse_Gas.html
+
 ### Installing
 The jupyter notebook file can be operated with the standard Jupyter Notebook software.
 As in all projects, it is recommended to set up an environment with the required packages. These include:
